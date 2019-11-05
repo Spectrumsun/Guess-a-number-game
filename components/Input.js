@@ -11,12 +11,12 @@ const styles = StyleSheet.create({
   }
 });
 
-const Input = (props) => (
+const Input = props => (
   <TextInput
     {...props}
     style={{
       ...styles.input,
-      ...setRecoveryProps.style
+      ...props.style
     }}
   />
 );
