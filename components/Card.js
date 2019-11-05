@@ -16,4 +16,4 @@ const styles = StyleSheet.create({
 
 export default Card = props => {
   return <View style={{...styles.card, ...props.style}}>{props.children}</View>
-};
+}; 
