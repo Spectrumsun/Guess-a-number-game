@@ -1,4 +1,4 @@
 # Guess-a-number-game
 ## react native 
  
-<img src="https://github.com/Spectrumsun/Guess-a-number-game/blob/master/assets/Screenshot%202019-11-06%20at%2017.22.19.png" alt="alt text" width="300" height="500">
+<img src="https://github.com/Spectrumsun/Guess-a-number-game/blob/master/assets/Screenshot%202019-11-06%20at%2017.22.19.png" alt="alt text" width="300" height="600">
